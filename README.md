@@ -70,7 +70,7 @@ Personal portfolio website showcasing full-stack development capabilities.
 
 ## 📈 Activity Graph
 
-[![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vijendrasainisb&theme=react-dark)](https://github.com/YOUR_USERNAME)
+[![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vijendrasainisb&theme=react-dark)](https://github.com/vijendrasainisb)
 
 ## 🤝 Connect with Me
 
