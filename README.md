@@ -72,15 +72,6 @@ Personal portfolio website showcasing full-stack development capabilities.
 
 [![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vijendrasainisb&theme=react-dark)](https://github.com/vijendrasainisb)
 
-## 🤝 Connect with Me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijendrasaini@startbitsolutions.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijendra-kumar-saini)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vijendra-portfolio.vercel.app)
-
-## 💭 Random Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
